@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e9d65a1-69c5-4371-893c-454b73e5a754" name="変更" comment="修正">
+      <change afterPath="$PROJECT_DIR$/apps/minimalapp/static/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/minimalapp/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/minimalapp/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apps/minimalapp/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/apps/minimalapp/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +105,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1644725216465</updated>
-      <workItem from="1644725241187" duration="3454000" />
+      <workItem from="1644725241187" duration="3974000" />
     </task>
     <task id="LOCAL-00001" summary="追加">
       <created>1644725444112</created>
@@ -149,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644728374231</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="修正">
+      <created>1644729025076</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1644729025076</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,6 +191,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="修正" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/book_flask_webappdev$Flask.coverage" NAME="Flask のカバレッジ結果" MODIFIED="1644728525724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/book_flask_webappdev$Flask.coverage" NAME="Flask のカバレッジ結果" MODIFIED="1644728867242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
