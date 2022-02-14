@@ -1,4 +1,4 @@
-from flask import Flask, render_template, url_for, current_app, g
+from flask import Flask, render_template, url_for, current_app, g, request
 
 app = Flask(__name__)
 
@@ -30,3 +30,6 @@ print(current_app.name)
 
 g.connections = "connection"
 print(g.connections)
+
+with app.test_request_context("/users?updated=true"):
+    print(request.args.get('updated'))
