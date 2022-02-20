@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e9d65a1-69c5-4371-893c-454b73e5a754" name="変更" comment="アンケートフォーム作成中">
-      <change afterPath="$PROJECT_DIR$/.pylintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/minimalapp/templates/contact_complete.html" afterDir="false" />
+    <list default="true" id="6e9d65a1-69c5-4371-893c-454b73e5a754" name="変更" comment="問い合わせ入力チェック">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apps/minimalapp/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/minimalapp/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apps/minimalapp/templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/apps/minimalapp/templates/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/minimalapp/templates/contact_complete.html" beforeDir="false" afterPath="$PROJECT_DIR$/apps/minimalapp/templates/contact_complete.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +140,7 @@
       <workItem from="1644925225926" duration="3207000" />
       <workItem from="1645003921792" duration="444000" />
       <workItem from="1645155583109" duration="277000" />
-      <workItem from="1645315008881" duration="2226000" />
+      <workItem from="1645315008881" duration="3213000" />
     </task>
     <task id="LOCAL-00001" summary="追加">
       <created>1644725444112</created>
@@ -220,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644864916060</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="問い合わせ入力チェック">
+      <created>1645320361596</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1645320361596</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,10 +260,11 @@
     <MESSAGE value="修正" />
     <MESSAGE value="1.2章まで開発" />
     <MESSAGE value="アンケートフォーム作成中" />
-    <option name="LAST_COMMIT_MESSAGE" value="アンケートフォーム作成中" />
+    <MESSAGE value="問い合わせ入力チェック" />
+    <option name="LAST_COMMIT_MESSAGE" value="問い合わせ入力チェック" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/book_flask_webappdev$sample_aiter.coverage" NAME="sample_aiter のカバレッジ結果" MODIFIED="1644909060792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/topic_001" />
-    <SUITE FILE_PATH="coverage/book_flask_webappdev$Flask.coverage" NAME="Flask のカバレッジ結果" MODIFIED="1645320091508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/book_flask_webappdev$Flask.coverage" NAME="Flask のカバレッジ結果" MODIFIED="1645320862438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
